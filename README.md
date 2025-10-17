@@ -24,7 +24,7 @@ Hệ thống quản lý công việc đơn giản sử dụng **Laravel** và **
 
 ### 2️⃣ Clone repository
 ```sh
-git clone https://github.com/namthanhit/TaskManagement.git
+git clone https://github.com/Hieuab1308/TaskManagement.git
 cd task-management
 ```
 
